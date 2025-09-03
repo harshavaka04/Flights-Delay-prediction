@@ -1,5 +1,6 @@
 ﻿import pandas as pd
 import numpy as np
+import streamlit as st
 import pickle
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
@@ -82,3 +83,4 @@ if st.button("Predict Delay"):
     prediction = model.predict(input_data)[0]
 
     st.success(f"Predicted Delay Category: **{prediction}**")
+
