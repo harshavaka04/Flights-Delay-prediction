@@ -1,0 +1,21 @@
+airline,flight_no,departure,destination,departure_time,arrival_time,duration
+SpiceJet,SP832,Kuala Lumpur,Tokyo,2025-08-31 10:51,2025-08-31 15:51,5
+British Airways,BR529,Hyderabad,Mumbai,2025-08-31 09:24,2025-08-31 18:24,9
+SpiceJet,SP820,Singapore,Dubai,2025-08-31 13:36,2025-08-31 19:36,6
+Singapore Airlines,SI814,Bengaluru,Singapore,2025-08-31 11:02,2025-08-31 18:02,7
+GoAir,GO770,Hyderabad,Chennai,2025-08-31 10:46,2025-08-31 17:46,7
+Air India,AI555,Tokyo,Paris,2025-08-31 08:17,2025-08-31 19:17,11
+Qatar Airways,QA300,Tokyo,Doha,2025-08-31 08:16,2025-08-31 12:16,4
+Air India,AI463,Paris,Doha,2025-08-31 09:03,2025-08-31 14:03,5
+Vistara,VI144,Kuala Lumpur,New York,2025-08-31 06:16,2025-08-31 11:16,5
+Vistara,VI932,Tokyo,Chennai,2025-08-31 08:03,2025-08-31 13:03,5
+GoAir,GO421,Kolkata,New Delhi,2025-08-31 09:16,2025-08-31 17:16,8
+Qatar Airways,QA870,Doha,Singapore,2025-08-31 07:33,2025-08-31 09:33,2
+Lufthansa,LU332,Dubai,Paris,2025-08-31 14:53,2025-08-31 20:53,6
+Lufthansa,LU497,Tokyo,Mumbai,2025-08-31 07:35,2025-08-31 14:35,7
+Qatar Airways,QA274,Tokyo,Dubai,2025-08-31 13:39,2025-08-31 21:39,8
+Emirates,EM828,Doha,Tokyo,2025-08-31 13:55,2025-08-31 18:55,5
+Emirates,EM707,Doha,Paris,2025-08-31 12:03,2025-08-31 16:03,4
+British Airways,BR325,Bengaluru,Dubai,2025-08-31 09:18,2025-08-31 19:18,10
+Air India,AI953,New Delhi,Bengaluru,2025-08-31 10:45,2025-08-31 14:45,4
+Qatar Airways,QA559,Singapore,Kuala Lumpur,2025-08-31 15:18,2025-08-31 21:18,6
